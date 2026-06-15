@@ -137,7 +137,8 @@ Future Improvements
 Conclusion
 In this project, I successfully developed a Simple Task Management System using Python. The program allows users to add, view, and delete tasks while keeping track of the total number of tasks. This project strengthened my understanding of basic programming concepts and demonstrated how programming can be used to solve everyday problems.
 
-About the Author
+ 
+ the Author
 
 Nura Husein
 Student / Beginner Python Developer
