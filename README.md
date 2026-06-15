@@ -144,7 +144,7 @@ Student / Beginner Python Developer
 
 This project was developed as part of a learning exercise to strengthen programming fundamentals. Passionate about building small, useful tools and gradually moving into real-world applications.
 
-· GitHub: nurahusein47(HTTPS://github.com/nurahusein47)
+· GitHub: nurahusein47(https://github.com/nurahusein47)
 · Goal: Continue improving and building more interactive systems with databases and GUIs.
 
 Acknowledgments
